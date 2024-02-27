@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the HCMUS's deadline ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+🚀 Journeying Through: Currently diving deep into the HCMUS's deadline ocean..<br>📘 Student at Faculty of Information Technology, VNUHCM - University of Science <br>🔍 My Specialty: A constantly active brain coupled with an optimistic spirit.<br>🌟 Did You Know?: I'm really not as smart as people think.
 
 # 🤙 Connect Me Now:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/trahoang.demo/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatra.281003@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trahoang-rt/)
