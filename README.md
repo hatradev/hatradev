@@ -3,8 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatradev&label=Profile%20views&color=0e75b6&style=flat" alt="hatradev" /> </p>
 
+- 🌱 I’m currently learning **Java and Spring Boot**
+
+- 👨‍💻 All of my projects are available at [hatra.id.vn](hatra.id.vn)
+
+- 📝 I regularly write articles on [hatra.id.vn](hatra.id.vn)
+
+- 💬 Ask me about **javascript and python**
+
+- 📫 How to reach me **hatra.dev@gmail.com**
+
+- 📄 Know about my experiences [hatra.id.vn](hatra.id.vn)
+
+- ⚡ Fun fact **I am a busy cat 🐈 and a sleep-deprived boy 😴**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/trahoang-rt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trahoang-rt" height="30" width="40" /></a>
+<a href="https://kaggle.com/hoangtra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hoangtra" height="30" width="40" /></a>
+<a href="https://fb.com/trahoang.demo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trahoang.demo" height="30" width="40" /></a>
+<a href="https://instagram.com/trahoang.demo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trahoang.demo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/demo1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="demo1207" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
