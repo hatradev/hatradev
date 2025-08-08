@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatradev&label=Profile%20views&color=0e75b6&style=flat" alt="hatradev" /> </p>
 
+<!--
 - 🌱 I’m currently learning **Java and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [hatra.id.vn](hatra.id.vn)
@@ -10,10 +11,13 @@
 - 📝 I regularly write articles on [hatra.id.vn](hatra.id.vn)
 
 - 💬 Ask me about **javascript and python**
+-->
 
 - 📫 How to reach me **hatra.dev@gmail.com**
 
+<!--
 - 📄 Know about my experiences [hatra.id.vn](hatra.id.vn)
+-->
 
 - ⚡ Fun fact **I am a busy cat 🐈 and a sleep-deprived boy 😴**
 
